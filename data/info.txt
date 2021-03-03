@@ -1,0 +1,2 @@
+After running main.py from a Python interpreter, .csv files
+will be written to this folder. 
