@@ -13,3 +13,5 @@ We bring together the primary components of the code in the `main.py` file: We s
 The strategy and much of the code that parses 10-K data comes from [Alex Reed](https://github.com/areed1192), specifically his notebook [Web Scraping SEC - 10K Landing Page](https://github.com/areed1192/sigma_coding_youtube/blob/master/python/python-finance/sec-web-scraping/Web%20Scraping%20SEC%20-%2010K%20Landing%20Page%20-%20Single.ipynb). Read Mr. Reed's notebook to learn more about the process of transforming a 10-K table into a dataframe. 
 
 If you would like a more in-depth demonstration of how this code works and to see the process of how we can go from the code Mr. Reed wrote to building classes and functions around it, go through the `JupyterNotebookWalkthrough`.
+
+You may contact me at `mriverrose@gmail.com`.
